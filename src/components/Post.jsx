@@ -1,21 +1,4 @@
 import React, { Component } from "react";
-// RESTful API
-// RESTful API
-// RESTful API
-// RESTful API
-// RESTful API
-// RESTful API
-// RESTful API
-// RESTful API
-// RESTful API
-// RESTful API
-// RESTful API
-// RESTful API
-// RESTful API
-// RESTful API
-// RESTful API
-// RESTful API
-// RESTful API
 //import axios from "axios";
 import { connect } from "react-redux";
 import { deletePost } from "../actions/postActions";
